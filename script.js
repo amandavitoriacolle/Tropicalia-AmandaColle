@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded' , function (){
     const AumentaFonteBotão = document.getElementById ('aumentar-fonte');
+    const dimunuiFonteBotão = document.getElementById ('diminuir-fonte');
 
     let tamanhoAtualFonte = 1;
 
